@@ -1,6 +1,6 @@
-# Jobly Backend
+# Job-search-backend
 
-This is the Express backend for Jobly, version 2.
+This is the Express backend for Job-search.
 
 To run this:
 
